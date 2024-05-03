@@ -13,7 +13,7 @@
       Então deve habilitar o botao "Finalizar compra"
 
       Esquema do Cenario: Cadastro inválido
-      Quando eu preencher os espacos <email>
+      Quando eu preencher os espacos <nome> <sobrenome> <pais> <endereco> <cidade> <cep> <telefone> <email>
       Então deve exibir <mensagem>
 
       Exemplos:
